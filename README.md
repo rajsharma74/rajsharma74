@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
 <h3 align="center">A passionate Software developer from India ans I woking on Development I really enjoy learning and frameworks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsharma74" alt="rajsharma74" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 📫 How to reach me **rajsharma747959@gmail.com**
